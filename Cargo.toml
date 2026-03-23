@@ -10,7 +10,7 @@ keywords = ["kubernetes", "kubectx", "kubens"]
 license = "Zlib"
 name = "kubie"
 readme = "README.md"
-repository = "https://github.com/sbstp/kubie"
+repository = "https://github.com/kubie-org/kubie"
 version = "0.26.1"
 
 [dependencies]
