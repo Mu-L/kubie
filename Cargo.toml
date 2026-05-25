@@ -11,7 +11,7 @@ license = "Zlib"
 name = "kubie"
 readme = "README.md"
 repository = "https://github.com/kubie-org/kubie"
-version = "0.27.0"
+version = "0.28.0"
 
 [dependencies]
 anyhow = "1"
